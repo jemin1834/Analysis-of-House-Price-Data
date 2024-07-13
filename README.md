@@ -1,4 +1,4 @@
-step 1:-Dowload Anaconda Software (Using This link:-https://www.anaconda.com/download(submit your gmail id in provide email to download distribution)
+step 1:-Dowload Anaconda Software (Using This link:-https://www.anaconda.com/download. (submit your gmail id in provide email to download distribution)
 Step 2:- Open Anaconda navigation
 Step 3:- Launch Jupeter note book
 Step 3:- Create new Folder 
